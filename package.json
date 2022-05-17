@@ -1,0 +1,23 @@
+{
+  "name": "calc-p",
+  "version": "1.0.0",
+  "description": "a similar calc",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henihollar/second-Calc.git"
+  },
+  "author": "Eniola Ashade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henihollar/second-Calc/issues"
+  },
+  "homepage": "https://github.com/Henihollar/second-Calc#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
